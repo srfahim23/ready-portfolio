@@ -10,7 +10,7 @@ const Header = () => {
     <header className="fixed w-full bg-white shadow-sm z-50">
       <nav className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-blue-600">Portfolio</h1>
+          <h1 className="text-2xl font-bold text-blue-600">FAHIM'S</h1>
           
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">

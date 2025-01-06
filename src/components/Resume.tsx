@@ -3,14 +3,14 @@ import React from 'react';
 const Resume = () => {
   const experiences = [
     {
-      period: '2020 - Present',
+      period: '2022 - Present',
       title: 'Senior Developer',
       company: 'Tech Corp',
       description: 'Leading development of enterprise web applications.',
     },
     {
       period: '2018 - 2020',
-      title: 'Full Stack Developer',
+      title: 'Front End Developer',
       company: 'StartUp Inc',
       description: 'Developed and maintained multiple client projects.',
     },

@@ -8,10 +8,10 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-12">
           <div className="flex-1 text-center md:text-left">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-4">
-              Hi, I'm <span className="text-blue-600">John Doe</span>
+              Hi, I'm <span className="text-blue-600">FAHIM FAYSAL</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8">
-              Full Stack Developer
+              Front End Developer
             </p>
             <p className="text-gray-600 mb-8 max-w-lg">
               I craft elegant solutions to complex problems using modern web technologies.
@@ -26,13 +26,13 @@ const Hero = () => {
               </a>
             </div>
             <div className="flex gap-6 mt-8 justify-center md:justify-start">
-              <a href="https://github.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="https://github.com/srfahim23" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="https://www.linkedin.com/in/faysal-sarker-263332274/" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:contact@example.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="mailto:srfahim23@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Mail size={24} />
               </a>
             </div>

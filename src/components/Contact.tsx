@@ -17,15 +17,15 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <MapPin className="w-5 h-5 text-blue-600 mr-4" />
-                <span className="text-gray-600">New York, NY</span>
+                <span className="text-gray-600">Sirajgonj, Bangladesh</span>
               </div>
               <div className="flex items-center">
                 <Phone className="w-5 h-5 text-blue-600 mr-4" />
-                <span className="text-gray-600">+1 234 567 890</span>
+                <span className="text-gray-600">+880 1617026858</span>
               </div>
               <div className="flex items-center">
                 <Mail className="w-5 h-5 text-blue-600 mr-4" />
-                <span className="text-gray-600">contact@example.com</span>
+                <span className="text-gray-600">srfahim23@gmail.com</span>
               </div>
             </div>
           </div>
